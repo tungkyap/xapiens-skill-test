@@ -1,0 +1,15 @@
+Bahasa Pemrograman Go (Go-Lang)
+- Merupakan bahasa pemrograman turunan dari bahasa C
+- Walau mirip tetap ada beberapa perbedaan syntax
+- open source banyak kontributor library untuk bahasa ini
+- punya garbage collector
+- mendukung pemrograman prosedural
+- bukan bahasa pemrograman yang hirarkial sehingga tidak ada OOP
+- library package/modul lengkap
+- kompilasi cepat
+- mendukung multi-processing atau parallel processing(memproses data secara bersamaan)
+- scalable
+- banyak dipakai untuk microservices
+
+Aturan Bahasa Pemrograman Go-Lang
+- strict: semua source code wajib digunakan jika ada yang tidak digunakan Go-Lang akan merespon dengan error
